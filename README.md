@@ -1,5 +1,7 @@
 # Hi, I'm Rezoana Afrin! 👋
 🚀 Frontend Developer | 💻 Tech Enthusiast 
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/rezoana-afrin/)]
 
 
 
