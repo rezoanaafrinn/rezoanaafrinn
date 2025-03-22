@@ -1,5 +1,8 @@
-### Hi there 👋I'm Rezoana
-- 🌱 I’m currently learning PHP and frameworks 
+# Hi, I'm Reoana Afrin! 👋
+🚀 Frontend Developer | 💻 Tech Enthusiast 
+![Header Image](https://your-image-url.com)
+
+
 <!--
 **rezoanaafrinn/rezoanaafrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
