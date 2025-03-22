@@ -1,6 +1,6 @@
 # Hi, I'm Reoana Afrin! 👋
 🚀 Frontend Developer | 💻 Tech Enthusiast 
-![Header Image](https://your-image-url.com)
+
 
 
 <!--
