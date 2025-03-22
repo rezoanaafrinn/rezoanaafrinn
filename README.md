@@ -1,4 +1,4 @@
-# Hi, I'm Reoana Afrin! 👋
+# Hi, I'm Rezoana Afrin! 👋
 🚀 Frontend Developer | 💻 Tech Enthusiast 
 
 
