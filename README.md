@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! I'm Rezoana Afrin!</h2>
-<h2 align="left">🚀 Full Stack Developer | 💻 Tech Enthusiast</h2>
+<h2 align="left">Hi!👋 I'm Rezoana Afrin</h2>
+<h3 align="left">🚀 Full Stack Developer | 💻 Tech Enthusiast</h3>
 
 ###
 
@@ -20,8 +20,8 @@
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rezoanaafrinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-        width="400" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=rezoanaafrinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" 
+        height="200" width="400" 
         alt="Top Languages" 
       />
     </td>
