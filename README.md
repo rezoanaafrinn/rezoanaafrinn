@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Rezoana Afrin!</h2>
-<h2 align="left">🚀 Frontend Developer | 💻 Tech Enthusiast</h2>
+<h2 align="left">🚀 Full Stack Developer | 💻 Tech Enthusiast</h2>
 
 ###
 
